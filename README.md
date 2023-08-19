@@ -1,6 +1,6 @@
 # Barbearia-Guga
 
-Projeto desenvolvidp em Java a fins estudantis.
+Projeto de um sistema de uma barberia a fins estudantis.
 
 - Padrão Mvc(Model-View-Controller).
 - Framework Bootstrap para Front-end.
