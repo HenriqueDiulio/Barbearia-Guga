@@ -2,7 +2,7 @@
 
 Projeto desenvolvidp em Java a fins estudantis.
 
-- Padrão Mvc(Model View Control).
-- Freemwork Bootstrap para Froont-end.
+- Padrão Mvc(Model-View-Controller).
+- Framework Bootstrap para Front-end.
 
 EM DESENVOLVIMENTO
